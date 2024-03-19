@@ -46,7 +46,7 @@ GET /location?long=77.0254895&lat=11.0052124
 
 
 
-Code Explain
+**Code Explain**
 ![code-1](https://github.com/kathirvel-debug/WeatherApp/assets/68596240/ad8a830d-ba73-4ddd-b134-a17ac2f9d095)
 
 Above code using of use Effect initial rendering we get the location of longitude and latitude and set the value to the use State
