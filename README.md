@@ -5,17 +5,17 @@ The weather app allows users to check the temperature on a daily basis by search
 **Error Msg Page**
 ![Error-msg](https://github.com/kathirvel-debug/WeatherApp/assets/68596240/91dc6790-b72e-462d-b3a8-85cae15ca0ab)
 Installation Instructions
-1. [ ]Launch the server and install the back end.
-	Segment CMD node sever.js
-	Install frontend react-app
-	Run frontend npm start using CMD
+1.Launch the server and install the back end.
+2.Segment CMD node sever.js
+3.Install frontend react-app
+4.Run frontend npm start using CMD
 
 **Dependencies:**
-React
-Axios
-Nodejs
-Express
-Cros
+1.React
+2.Axios
+3.Nodejs
+4.Express
+5.Cros
 
 **API integration:**
 Below is the API documentation for your Express server that serves as a proxy to the Tomorrow.io weather API. This documentation describes the endpoints, their functionality, and usage.
