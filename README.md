@@ -47,8 +47,9 @@ GET /location?long=77.0254895&lat=11.0052124
 
 
 Code Explain
+![code-1](https://github.com/kathirvel-debug/WeatherApp/assets/68596240/ad8a830d-ba73-4ddd-b134-a17ac2f9d095)
 
+![code-explain](https://github.com/kathirvel-debug/WeatherApp/assets/68596240/4b947c1b-4cbc-44bf-bed3-050de58ccc49)
 
-
-
+![codelong](https://github.com/kathirvel-debug/WeatherApp/assets/68596240/dcfb9cda-17d7-4075-aa96-de7124f0affc)
 
