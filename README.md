@@ -50,6 +50,7 @@ Code Explain
 ![code-1](https://github.com/kathirvel-debug/WeatherApp/assets/68596240/ad8a830d-ba73-4ddd-b134-a17ac2f9d095)
 Above code using of use Effect initial rendering we get the location of longitude and latitude and set the value to the use State
 ![codelong](https://github.com/kathirvel-debug/WeatherApp/assets/68596240/dcfb9cda-17d7-4075-aa96-de7124f0affc)
+
 Above code send the longitude and latitude value to the API in between loading action triggered and if any error in backend Error action will be triggered
 ![code-explain](https://github.com/kathirvel-debug/WeatherApp/assets/68596240/4b947c1b-4cbc-44bf-bed3-050de58ccc49)
 
