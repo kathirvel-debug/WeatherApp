@@ -40,6 +40,7 @@ Status Codes
 •	200: Successful request.
 •	500: Internal server error.
 
+Code Explain
 
 
 
